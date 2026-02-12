@@ -9,7 +9,7 @@ const greatVibes = Great_Vibes({
 });
 
 const cormorant = Cormorant_Garamond({
-  weight: ["300", "400", "600"],
+  weight: ["300", "400", "600", "700"],
   variable: "--font-cormorant",
   subsets: ["latin"],
 });

@@ -69,7 +69,7 @@ body {
 /* Elegant serif — uses Next.js Cormorant Garamond font variable */
 .text-serif-light {
   font-family: var(--font-cormorant), serif;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.35em;
   text-transform: uppercase;
   color: #4a3728;
